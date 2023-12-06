@@ -1,0 +1,1 @@
+This section gives a very brief summary of `strace`, `ps`, `top`, and `/proc` - all of which I am familiar with. It also mentions `pmap`, which I'd not heard of. Apparently it displays the memory map of a process. It does seem pretty cool.
